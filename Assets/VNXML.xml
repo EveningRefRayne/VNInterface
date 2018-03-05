@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Conversations>
+	<Conversation>
+		<Background>None</Background>
+		<Window>Show</Window>
+		<Timer>0</Timer>
+		<Character1>
+			<CharacterName>None</CharacterName>
+			<CharacterSprite>None</CharacterSprite>
+			<CharacterEmotion>None</CharacterSprite>
+			<CharacterPositionX>0</CharacterPositionX>
+			<CharacterPositionY>0</CharacterPositionY>
+			<CharacterFacing>Left</CharacterFacing>
+		</Character1>
+		<Character2>
+			<CharacterName>None</CharacterName>
+			<CharacterSprite>None</CharacterSprite>
+			<CharacterEmotion>None</CharacterSprite>
+			<CharacterPositionX>0</CharacterPositionX>
+			<CharacterPositionY>0</CharacterPositionY>
+			<CharacterFacing>Left</CharacterFacing>
+		</Character2>
+		<Character3>
+			<CharacterName>None</CharacterName>
+			<CharacterSprite>None</CharacterSprite>
+			<CharacterEmotion>None</CharacterSprite>
+			<CharacterPositionX>0</CharacterPositionX>
+			<CharacterPositionY>0</CharacterPositionY>
+			<CharacterFacing>Left</CharacterFacing>
+		</Character3>
+		<Character4>
+			<CharacterName>None</CharacterName>
+			<CharacterSprite>None</CharacterSprite>
+			<CharacterEmotion>None</CharacterSprite>
+			<CharacterPositionX>0</CharacterPositionX>
+			<CharacterPositionY>0</CharacterPositionY>
+			<CharacterFacing>Left</CharacterFacing>
+		</Character4>
+		<SpeechName>Bob</Name>
+		<SpeechText>This is sample text, does it work?</Text>
+	</Conversation>
+</Conversations>
